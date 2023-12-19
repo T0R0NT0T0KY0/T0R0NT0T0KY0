@@ -4,7 +4,7 @@
 - 🖥️ I’m currently learning **Node.js**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-timur&show_icons=true&locale=en&layout=compact" alt="Timur Ibragimov" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T0R0NT0T0KY0&show_icons=true&locale=en&layout=compact" alt="Dmitry Bulatov" />
 </a>
 
 <h3 align="left">Languages and Tools I use:</h3>
@@ -17,14 +17,5 @@
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    </a>
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-    </a>
-    <a href="lua.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg" alt="lua" width="40" height="40"/>
     </a>
 </p>
