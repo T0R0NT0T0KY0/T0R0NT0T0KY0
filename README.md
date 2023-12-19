@@ -4,7 +4,7 @@
 - 🖥️ I’m currently learning **Node.js**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T0R0NT0T0KY0&show_icons=true&locale=en&layout=compact" alt="Dmitry Bulatov" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T0R0NT0T0KY0&show_icons=true&locale=en&layout=compact&hide=css,scss" alt="Dmitry Bulatov" />
 </a>
 
 <h3 align="left">Languages and Tools I use:</h3>
