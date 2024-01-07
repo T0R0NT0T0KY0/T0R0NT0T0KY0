@@ -22,3 +22,5 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="typescript" width="40" height="40"/>
     </a>
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/bb5e7fa1-077f-4f9f-aab3-34eb39e50116.svg)](https://wakatime.com/@bb5e7fa1-077f-4f9f-aab3-34eb39e50116)
