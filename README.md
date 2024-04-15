@@ -1,33 +1,19 @@
-### Hi there 👋
+# 💫 About Me:
+🖥️ *Node.js* backend developer <br> 🤝 I need help moving to Europe or... 
 
 
-- 🖥️ I’m currently learning **Node.js**
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T0R0NT0T0KY0&show_icons=true&locale=en&layout=compact&hide=css,scss&theme=tokyonight&langs_count=10" alt="Dmitry Bulatov" />
-</a>
-
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=T0R0NT0T0KY0&count_private=true&show_icons=true&theme=tokyonight" alt="Dmitry Bulatov" />
-</a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=T0R0NT0T0KY0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=T0R0NT0T0KY0&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=T0R0NT0T0KY0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css,scss,html&langs_count=10)
 
 
-<h3 align="left">Languages and Tools I use:</h3>
-<p align="left">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-</p>
+---
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 [![wakatime](https://wakatime.com/badge/user/bb5e7fa1-077f-4f9f-aab3-34eb39e50116.svg)](https://wakatime.com/@bb5e7fa1-077f-4f9f-aab3-34eb39e50116)
+[![](https://visitcount.itsvg.in/api?id=T0R0NT0T0KY0&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) THX -->
