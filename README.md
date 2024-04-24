@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ *Node.js* backend developer <br> 🤝 I need help moving to Europe or... 
+🖥️ *Node.js* backend developer <br> 🤝 I need help moving to Europe or...  (summer-2025)
 
 
 # 📊 GitHub Stats:
